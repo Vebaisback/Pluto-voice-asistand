@@ -18,4 +18,4 @@ pip install SpeechRecognition gTTS pyautogui opencv-python transformers sumy req
 
 * **My [Github](https://github.com/Vebaisback) profile**
 * **My [Replit](https://replit.com/@YunusBAYRAK1/) profile**
-* **My [Instagram](https://www.instagram.com/useer061207/) profile**
+* **My [Instagram](https://www.instagram.com/venusholms/) profile**
